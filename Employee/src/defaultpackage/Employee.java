@@ -1,3 +1,4 @@
+package defaultpackage;
 class Employee{
     private int eid;
     private String name;
